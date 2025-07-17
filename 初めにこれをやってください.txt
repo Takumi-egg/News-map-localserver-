@@ -1,0 +1,9 @@
+powershellに入力するもの
+
+初めてやる人
+py -m pip install Flask feedparser requests Flask-Cors spacy ginza ja-ginza
+
+2回目の人はここから
+py c:\ui.ux\backgraund.py
+もしサーバーを止めたい場合
+Ctrl + C
