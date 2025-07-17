@@ -1,0 +1,13 @@
+
+powershellに入力するもの
+
+Flaskやspacyといったサーバー用の部品をダウンロードするために塚います
+
+初めてやる人
+py -m pip install Flask feedparser requests Flask-Cors spacy ginza ja-ginza
+
+2回目の人はここから（AIサーバーを起動して、ニュース収集しまsu）
+py c:\ui.ux\backgraund.py
+
+もしサーバーを止めたい場合
+Ctrl + C
