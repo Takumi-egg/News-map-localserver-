@@ -9,5 +9,7 @@ py -m pip install Flask feedparser requests Flask-Cors spacy ginza ja-ginza
 2回目の人はここから（AIサーバーを起動して、ニュース収集しまsu）
 py c:\ui.ux\backgraund.py
 
+6秒ほど待ってからhtmlを開いてください。
+
 もしサーバーを止めたい場合
 Ctrl + C
