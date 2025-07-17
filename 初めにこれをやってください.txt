@@ -1,4 +1,3 @@
-
 powershellに入力するもの
 
 Flaskやspacyといったサーバー用の部品をダウンロードするために塚います
@@ -6,8 +5,11 @@ Flaskやspacyといったサーバー用の部品をダウンロードするた�
 初めてやる人
 py -m pip install Flask feedparser requests Flask-Cors spacy ginza ja-ginza
 
+cd C:\Users\あなたのユーザー名\Downloads\news-map
+"あなたのユーザー名" の部分は、実際のPCのユーザー名に置き換えてください。
+
 2回目の人はここから（AIサーバーを起動して、ニュース収集しまsu）
-py c:\ui.ux\backgraund.py
+py backgraund.py
 
 もしサーバーを止めたい場合
 Ctrl + C
