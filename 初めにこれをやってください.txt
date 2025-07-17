@@ -1,15 +1,13 @@
-powershellに入力するもの
+解凍したら、Cドライブに(ui.ux)というフォルダーを作って、その中に解凍したフォルダの中身すべてを移し替えてください。
 
-Flaskやspacyといったサーバー用の部品をダウンロードするために塚います
+
+powershellに入力するもの
 
 初めてやる人
 py -m pip install Flask feedparser requests Flask-Cors spacy ginza ja-ginza
 
-cd C:\Users\あなたのユーザー名\Downloads\News-map-localserver--main
-"あなたのユーザー名" の部分は、実際のPCのユーザー名に置き換えてください。
-
 2回目の人はここから（AIサーバーを起動して、ニュース収集しまsu）
-py backgraund.py
+py c:\ui.ux\backgraund.py
 
 もしサーバーを止めたい場合
 Ctrl + C
